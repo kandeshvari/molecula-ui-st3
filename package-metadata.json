@@ -1,0 +1,8 @@
+{
+	"version": "0.0.1",
+	"description": "A Light UI + syntax theme for @SublimeText3.",
+	"dependencies": [],
+	"url": "https://packagecontrol.io/packages/MoleculaUI",
+	"sublime_text": "*",
+	"platforms": ["*"]
+}
